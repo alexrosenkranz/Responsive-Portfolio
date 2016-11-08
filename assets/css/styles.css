@@ -293,7 +293,8 @@ input[type="submit"]:hover {
 
   /* PORTFOLIO STYLES */
   li.portfolio-item{
-  	width: 312px;
+  	width: 100%;
+  	max-width: 312px;
   	height: 236px;
   }
 
@@ -308,6 +309,7 @@ input[type="submit"]:hover {
   }
 
   .wrapper-640 {
+  	width: 96%;
   	max-width: 600px;
   }
 
@@ -333,8 +335,9 @@ input[type="submit"]:hover {
 
   /* PORTFOLIO STYLES */
   li.portfolio-item{
-  	width: 540px;
+  	width: 100%;
   	height: 404px;
+  	max-width: 100%;
   }
 }
 

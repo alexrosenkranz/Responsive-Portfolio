@@ -333,6 +333,11 @@ input[type="submit"]:hover {
   	padding: 0 50px;
   }
 
+  img.bio-pic {
+	float: none; 
+	max-width: 100%;
+}
+
   /* PORTFOLIO STYLES */
   li.portfolio-item{
   	width: 100%;
